@@ -1,6 +1,10 @@
 
 Solutions to the simple tasks by Andrew Kelley
 
+*** Most of these solutions were found by piecing together 
+    information from "Linux Pocket Guide" by Daniel J. 
+    Barrett
+
 1. Given a DOS-formatted text file (lines end with \r\n rather
    than just \n), convert it to a standard text file.
 
